@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Orlando Ramirez banner](https://github.com/oramirezperera/oramirezperera/blob/main/banner.jpg?raw=true)
+
 I’m Orlando Ramirez, an Industrial Processes Engineer, also I’m a Data Analyst :telescope: and I do Business Intelligence :office:, I’m in my path to become a Data Scientist :blue_book:.
 
 I do ETL(Extract Transform Load) of data. I work with Python and R. You can checkout some of my projects here:
